@@ -1,0 +1,14 @@
+pandas
+langchain
+crewai
+python-dotenv
+langchain
+groq
+streamlit
+pdfplumber
+langchain_groq
+langchain_community 
+langchain-groq
+langchain-core
+
+
